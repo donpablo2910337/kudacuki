@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /es/
+
+Sitemap: https://www.theflycenter.com/sitemap.xml
